@@ -50,3 +50,5 @@ for
 - A pair of VM's dedicated to each team; on the east and west sides of the network.
 - Traffic generators that vary in order to cause background north-south interference.
 - Links in the network will occasionally fail.
+
+![设计图](/image/design.png)
