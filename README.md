@@ -51,4 +51,8 @@ for
 - Traffic generators that vary in order to cause background north-south interference.
 - Links in the network will occasionally fail.
 
+## In the Cloud Environment
 ![设计图](/images/design.png)
+
+- Deployed listener cluster on K8s to avoid single point failure.
+- Leveraging AWS to auto-scale up during the traffic.
