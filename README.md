@@ -5,8 +5,8 @@ SDN Throwdown overview: http://www.sdnthrowdown.com/
 | name | linkedin profile |
 | ------ | ------ |
 | Jialu Sun | [https://www.linkedin.com/in/jialu-sun-cse/]|
-| Jialu Sun | [https://www.linkedin.com/in/bo-cheng/]|
-| Jialu Sun | [https://www.linkedin.com/in/litong-amanda-shen-b378727a/]|
+| Bo Cheng | [https://www.linkedin.com/in/bo-cheng/]|
+| Litong Shen | [https://www.linkedin.com/in/litong-amanda-shen-b378727a/]|
 
 Presentation ppt is located in docs folder.
 
